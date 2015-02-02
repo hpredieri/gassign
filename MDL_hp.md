@@ -1,0 +1,7 @@
+1. Name of the Algorithm - Minimum Description Length
+2. What data problems does it solve? - It is a solution to the model selection problem. It helps simplimfy datasets by attributes. It's principles are used to compress data by reducing redundancy and finding significant predictors. The basic tenant of MDL is simple models are the best and are the most probable to explain the data correctly. 
+3. What does the algorithm do? - The algorithm compresses data by reducing uncertainty (entropy). Uncertainty is quantified using the number of bits needed to specify the range of values for a given variable as well as the number of instances of that same variable. After the data is compressed, the model is selected by comparing and ranking each of the significant predictor models based on relative compression in bits. The number of compressed bits is relative to the original complexity (size) of predictors.
+Business applications
+-Use for any presentation to communicate effectively to coworkers or peers what attribute(s) are essential to the integrity of the data
+-Attribute ranking could be of huge importance in education reform. Creating living labs in the classroom that record student and teacher body language/sentiment, teaching methods, etc.
+-For all the new civil hackers that use open data about local, state and federal governments, attribute importance could be implemented to understand when legal reform is more likely to take place.
