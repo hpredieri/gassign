@@ -1,0 +1,9 @@
+Right off the bat, great intro to the project with background information on the dataset and ideas behind his objectives. Especially good use of headers throughout the presentation to regulate the flow of the project.
+
+Printing the list of the features for your dataset was a great idea as it shows the breadth of possibilities and just looking at it generates a lot of ideas about potential relationships. Also splitting up that many features is a difficult task, he utilized his dataframe filters very well.
+
+The large size of the graphs were obviously premeditated and really make a difference especially at the beginning looking at the kde distributions and scatter plot. The best part of the presentation for me is the long/lat scatter mapping as it is visually enticing as well as painting an accurate/interactive picture of the data. Using the high, medium, low filters for his dataframe really does a great job of splitting this big dataset into manageable pieces.
+
+Another strong point of the presentation is the use of subtle functions (.unique(), .value_counts()) to help the reader get a better understanding of the dataset. Also I like the long summary breaks inbetween visualizations to take a step back and understand his thought process. I would suggest to move the feature summary (i.e. rating, cleanliness) after the .describe() at the beginning. I would suggest maybe a few more comments in the code to help the reader reference what is happening when going through it.
+
+On the whole, very impressive. There is a lot of data to sift through just in that dataset and I believe he mentioned the possibility of cross-referencing with restaurant data, so there is plenty to work with.
